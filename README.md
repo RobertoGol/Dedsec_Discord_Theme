@@ -5,7 +5,7 @@
 Discord Better Dedsec Theme 
 
 <p align="center">
-  <img width=90% src="https://github.com/RobertoGol/DedSec-Theme-for-Discord/blob/main/Picture/landscape-hill-sky-clouds-morning-mist-844455-wallhere.com.jpg" alt="banner" />
+  <img width=90% src="https://github.com/RobertoGol/Dedsec_Discord_Theme/blob/main/Picture/landscape-hill-sky-clouds-morning-mist-844455-wallhere.com.jpg" alt="banner" />
 </p>
 
 <div align="center">
